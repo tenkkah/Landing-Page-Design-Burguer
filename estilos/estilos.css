@@ -1,0 +1,89 @@
+body{
+    background-image: url(../img/burguer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.nav-link{
+    color: white !important;
+    
+}
+
+.button {
+    background-color: #d3ad12; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    width: 160px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.navegacion{
+    margin-left: 130px;
+}
+
+.logo{
+    margin-left: 10px;
+}
+.parrafo1{
+    color:rgb(214, 111, 0);
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.parrafo2{
+    color: white;
+    margin-left: 100px;
+   
+}
+
+.parrafo3{
+    color: white;
+    margin-left: 100px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo4{
+    color: orange;
+    margin-left: 400px;
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.redondo{
+    background-color: whitesmoke;
+    color: rgb(232, 81, 0);
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: -50px;
+  }
+
+.reservation{
+    background-color: transparent;
+    color: orange;
+    display: block;
+    width: 160px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: -50px;
+    border: none;
+}
